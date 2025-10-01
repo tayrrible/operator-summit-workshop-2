@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: reviews
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/tayrrible/operator-summit-workshop-2
     directory:
       include: "*.yaml"
   destination:
