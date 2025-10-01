@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/tayrrible/operator-summit-workshop-2
     path: apps
     targetRevision: main
   destination:
